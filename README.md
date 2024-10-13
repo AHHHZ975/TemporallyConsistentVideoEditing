@@ -2,6 +2,7 @@
 The code for the paper "Temporally Consistent Object Editing in Videos using Extended Attention" (CVPR AI4CC Workshop 2024)
 
 Code will be coming soon!
+
 Project webpage [link](https://ahhhz975.github.io/VideoEditing/).
 
 
